@@ -1,0 +1,20 @@
+{
+  "name": "banharassment",
+  "version": "0.0.0",
+  "description": "Project to ban harassment on twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bulletinprojects/banharassment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bulletinprojects/banharassment/issues"
+  },
+  "homepage": "https://github.com/bulletinprojects/banharassment",
+  "dependencies": {
+    "express": "^4.10.0"
+  }
+}
